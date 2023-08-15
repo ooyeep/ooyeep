@@ -1,6 +1,6 @@
 ### Hi Here is ooyeep 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=ooyeep&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=ooyeep&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="logo" height="180" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 a Parrot.  
 a Mushroom.   
