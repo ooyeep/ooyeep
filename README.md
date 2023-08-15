@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi Here is ooyeep 👋
 
-<!--
-**ooyeep/ooyeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-stats.vercel.app/api?username=ooyeep&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
-Here are some ideas to get you started:
+a Parrot.
+a Mushroom. 
+3 scoops of IceCream.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Follow me on [Twitter](https://twitter.com/ooyeep) & [Misskey](https://nya.one/ooyeep)
+
+[![PGP Key](https://img.shields.io/badge/-PGPkey-0093DD?logo=GNU%20Privacy%20Guard&labelColor=0093DD&logoColor=fff)](https://github.com/ooyeep.gpg)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?logo=Telegram&labelColor=2CA5E0&logoColor=fff)](https://t.me/ooyeep)
+[![Martrix](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)](https://matrix.to/#/@ooyeep:nya.one)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
